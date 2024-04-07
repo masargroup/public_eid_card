@@ -37,8 +37,6 @@ $images = $config['cards'];
         <br>
         <p class="text-center title"> عيد فطر مبارك</p>
         <p class="text-center title"> كل عام وأنتم بخير، أعادة الله علينا وعليكم بالصحة والسعادة</p>
-        <br>
-        <!-- <p class="text-center title"> كل عام وأنتم بخير، أعاده الله علينا وعليكم بالصحة والسعادة.</p> -->
         <p class="text-center description">اختر البطاقة التي تناسبك وقم بكتابة اسمك على التصميم!</p>
         <br>
         <form action="gen_image.php" id="cards_form" method="post" enctype="multipart/form-data">
