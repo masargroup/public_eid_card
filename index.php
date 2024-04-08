@@ -100,55 +100,53 @@ $images = $config['cards'];
             </div>
         </form>
         <br>
-        <div class="row">
-            <div class="col-12 col-sm-8 col-md-6 col-lg-6 text-center">
-                <p class="footer-text">المسار الصحيح لتحقيق طموحاتك الوظيفية</p>
+        <div class="border-black border-top footer-dev mx-4">
+            <div class="row mt-3">
+                <div class="col-12 col-sm-8 col-md-6 col-lg-6 text-center">
+                    <p class="footer-text">المسار الصحيح لتحقيق طموحاتك الوظيفية</p>
+                </div>
+                <div class="col-12 col-sm-4 col-md-6 col-lg-6 text-center">
+
+                    <a class="icon-link icon-link-hover social-icons p-1  rounded"
+                        style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
+                        href="https://www.linkedin.com/company/masar2030/" target="_blank">
+                        <i class="bi bi-linkedin"></i>
+                    </a>
+                    <a class="icon-link icon-link-hover social-icons p-1 rounded"
+                        style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
+                        href="https://www.instagram.com/masar_2030" target="_blank">
+                        <i class="bi bi-instagram"></i>
+                    </a>
+                    <a class="icon-link icon-link-hover social-icons p-1 rounded"
+                        style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
+                        href="https://youtube.com/@MASAR-yt1wy" target="_blank">
+                        <i class="bi bi-youtube"></i>
+                    </a>
+
+                    <a class="icon-link icon-link-hover social-icons p-1 rounded"
+                        style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
+                        href="https://www.tiktok.com/@masar_2030" target="_blank">
+                        <i class="bi bi-tiktok"></i>
+                    </a>
+
+                    <a class="icon-link icon-link-hover social-icons p-1 rounded"
+                        style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);" href="https://t.me/masar2030"
+                        target="_blank">
+                        <i class="bi bi-telegram"></i>
+                    </a>
+                    <a class="icon-link icon-link-hover social-icons p-1 rounded"
+                        style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
+                        href="https://t.snapchat.com/0OtAKoth" target="_blank">
+                        <i class="bi bi-snapchat"></i>
+                    </a>
+                    <a class="icon-link icon-link-hover social-icons p-1 rounded"
+                        style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);" href="https://x.com/masar_2030"
+                        target="_blank">
+                        <i class="bi bi-twitter-x"></i>
+                    </a>
+                </div>
+                <br>
             </div>
-            <div class="col-12 col-sm-4 col-md-6 col-lg-6 text-center mb-3">
-
-                <a class="icon-link icon-link-hover social-icons p-1  rounded"
-                    style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
-                    href="https://www.linkedin.com/company/masar2030/" target="_blank">
-                    <i class="bi bi-linkedin"></i>
-                </a>
-                <a class="icon-link icon-link-hover social-icons p-1 rounded"
-                    style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
-                    href="https://www.instagram.com/masar_2030" target="_blank">
-                    <i class="bi bi-instagram"></i>
-                </a>
-                <a class="icon-link icon-link-hover social-icons p-1 rounded"
-                    style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
-                    href="https://youtube.com/@MASAR-yt1wy" target="_blank">
-                    <i class="bi bi-youtube"></i>
-                </a>
-
-                <a class="icon-link icon-link-hover social-icons p-1 rounded"
-                    style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
-                    href="https://www.tiktok.com/@masar_2030" target="_blank">
-                    <i class="bi bi-tiktok"></i>
-                </a>
-
-                <a class="icon-link icon-link-hover social-icons p-1 rounded"
-                    style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);" href="https://t.me/masar2030"
-                    target="_blank">
-                    <i class="bi bi-telegram"></i>
-                </a>
-                <a class="icon-link icon-link-hover social-icons p-1 rounded"
-                    style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
-                    href="https://t.snapchat.com/0OtAKoth" target="_blank">
-                    <i class="bi bi-snapchat"></i>
-                </a>
-                <a class="icon-link icon-link-hover social-icons p-1 rounded"
-                    style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);" href="https://x.com/masar_2030"
-                    target="_blank">
-                    <i class="bi bi-twitter-x"></i>
-                </a>
-
-
-            </div>
-
-
-            <br>
         </div>
 </body>
 <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
